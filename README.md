@@ -3,6 +3,10 @@
 [![npm](https://img.shields.io/npm/dt/react-native-circular-progress.svg)](https://www.npmjs.com/package/react-native-circular-progress)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bgryszko.svg?style=social&label=Follow)](https://twitter.com/bgryszko)
 
+# What is React Native
+
+React Native lets you build mobile apps using only JavaScript. It uses the same design as React, letting you compose a rich mobile UI from declarative components. With React Native, you don't build a “mobile web app”, an “HTML5 app”, or a “hybrid app”. You build a real mobile app that's indistinguishable from an app built using Objective-C or Java. React Native uses the same fundamental UI building blocks as regular iOS and Android apps. You just put those building blocks together using JavaScript and React.
+
 # react-native-circular-progress
 
 React Native component for creating animated, circular progress with ReactART. Useful for displaying users points for example. **Works on iOS & Android.**
@@ -106,7 +110,7 @@ Open your emulator and run:
 
 ```sh
 git clone https://github.com/bgryszko/react-native-circular-progress.git
-cd  react-native-circular-progress/example/ProgressChart
+cd react-native-circular-progress/example/ProgressChart
 npm install
 react-native run-android
 ```
@@ -125,3 +129,4 @@ MIT
 
 ## Special thanks
 Special thanks to [Chalk+Chisel](http://chalkchisel.com) for creating working environment where people grow. This component was created for one of the projects we're working on.
+
