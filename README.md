@@ -5,7 +5,7 @@
 
 # What is React Native
 
-React Native lets you build mobile apps using only JavaScript. It uses the same design as React, letting you compose a rich mobile UI from declarative components. With React Native, you don't build a “mobile web app”, an “HTML5 app”, or a “hybrid app”. You build a real mobile app that's indistinguishable from an app built using Objective-C or Java. React Native uses the same fundamental UI building blocks as regular iOS and Android apps. You just put those building blocks together using JavaScript and React.
+React Native allows you to build mobile apps only with JavaScript. It shares the same design with React and lets you compose a rich mobile UI from declarative components. With React Native, you don't build a “mobile web app”, an “HTML5 app”, or a “hybrid app”. You build a real mobile app that indistinguishable from an app built with Objective-C or Java. React Native uses the same fundamental UI building blocks as regular iOS and Android apps. You can just combine those building blocks using JavaScript and React Native.
 
 # react-native-circular-progress
 
@@ -43,7 +43,7 @@ Use as follows:
   backgroundColor="#3d5875" />
 ```
 
-You can also define a function, that'll receive current progress and for example display it inside the circle:
+You can also define a function that will receive current progress, for example, display it inside the circle:
 
 ```jsx
 <AnimatedCircularProgress
